@@ -4,7 +4,7 @@
 
 Antes de começar, certifique-se de ter instalado:
 - **Node.js** (versão 18 ou superior) - [Download](https://nodejs.org/)
-- **npm** (vem com Node.js) ou **yarn**
+- **npm** ou **yarn**
 
 ### 🔍 Verificar instalações:
 ```bash
