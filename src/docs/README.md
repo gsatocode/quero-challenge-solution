@@ -16,7 +16,7 @@ npm --version     # Deve mostrar 8.x.x ou superior
 
 ### 1. 📥 Clone o repositório
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/gsatocode/quero-challenge-solution.git
 cd quero-challenge-solution
 ```
 
